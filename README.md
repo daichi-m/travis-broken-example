@@ -1,4 +1,4 @@
 # travis-broken-example
-[![Build Status](https://travis-ci.org/travis-ci/travis-web.svg?branch=master)](https://travis-ci.org/travis-ci/travis-web)
+[![Build Status](https://travis-ci.org/daichi-m/travis-broken-example.svg?branch=master)](https://travis-ci.org/daichi-m/travis-broken-example)
 
 An example that will cause a build failure
